@@ -1,0 +1,7 @@
+{
+  "name": "auditor-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "evil-auditor-dep": "git+https://github.com/YOUR_USERNAME/evil-auditor-dep.git"
+  }
+}
